@@ -37,7 +37,7 @@ Edit the `.env` file with your configuration settings.
 ```bash
 # Development mode
 npm run start:dev
-
+```
 
 ## API Documentation
 
